@@ -1,0 +1,82 @@
+﻿
+Переименовано "begin" в "head":
+-------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(15, 8)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(21, 3)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(28, 13)
+
+Переименовано "end" в "tail":
+-----------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(16, 8)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(23, 3)
+
+Переименовано "deleteMe" в "tmp":
+---------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(26, 10)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(27, 11)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(28, 11)
+
+Переименовано "next" в "cur":
+-----------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(23, 9)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(25, 10)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(26, 16)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(27, 4)
+
+Переименовано "printList" в "print":
+------------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(40, 7)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(56, 5)
+
+Переименовано "val" в "value":
+------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(10, 10)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(34, 6)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(42, 15)
+
+Переименовано "addValueFront" в "prependValue":
+-----------------------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(32, 7)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(53, 5)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(54, 5)
+
+Переименовано "lhs" в "leftPartStart":
+--------------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(22, 9)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(22, 35)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(49, 18)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(60, 10)
+
+Переименовано "rhs" в "rightPartHead":
+--------------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(23, 9)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(23, 35)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(50, 18)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(57, 15)
+
+Переименовано "leftPartStart" в "leftPartHead":
+-----------------------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(22, 9)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(22, 45)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(49, 18)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(60, 10)
+
+Переименовано "pplhs" в "pp_lpCur":
+-----------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(22, 35)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(33, 6)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(34, 5)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(34, 16)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(46, 4)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(54, 11)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(55, 4)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(55, 15)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(56, 4)
+
+Переименовано "pprhs" в "pp_rpCur":
+-----------------------------------
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(23, 36)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(38, 6)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(39, 5)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(39, 16)
+c:\Users\Admin\Documents\PROGRAMMING\C++\Projects\Labs\LMP\LMP_Lab04_22_LinkedListSort\LMP_Lab04_22_LinkedListSort\Source.cpp(46, 16)
